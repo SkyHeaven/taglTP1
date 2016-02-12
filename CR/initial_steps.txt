@@ -2,5 +2,4 @@ git commit
 git add 
 git pull 
 git push 
-git init
-git remote
+git 
