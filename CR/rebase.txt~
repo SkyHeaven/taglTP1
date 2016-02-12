@@ -1,0 +1,4 @@
+Nous avons utilisé la commande git rebase quand nous étions dans la branche fork2.
+Ensuite, nous sommes retounés dans la branche master pour faire un git merge. 
+La différence entre Rebase et Merge est que, dans le cas d'un rebase, la branche fork2 pointe vers la branche master donc à la fin on ne voit qu'une branche au lieu de 2.
+

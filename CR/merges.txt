@@ -1,1 +1,1 @@
-Pour effectuer le merge, nous avons tout d'abord taper la commande git checkout master pour revenir sur la branche branche principal, puis on a  tapé la commande git merge fork1 pour dire que la branche fork1 soit fusionner avec master.
+Pour effectuer le merge, nous avons tout d'abord tapé la commande git checkout master pour revenir sur la branche branche principale, puis nous avons  tapé la commande git merge fork1 pour que la branche fork1 soit fusionnée avec master.

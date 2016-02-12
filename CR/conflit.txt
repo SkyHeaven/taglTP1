@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+On crée un conflit, on espere en tout cas.
+=======
+On essaie de creer un conflit. 
+>>>>>>> fork1
+
+Pour gérer le conflit, nous avons fait un git commit -a qui permet de modifier le fichier en faisant apparaitre les deux versions du ficher dans le fichier, comme nous pouvons le voir ci-dessus.

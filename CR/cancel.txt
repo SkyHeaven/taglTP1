@@ -1,0 +1,1 @@
+Pour annuler les derniers changements, nous avons utilisé la commande git revert HEAD~1..HEAD qui permet de revenir un commit en arrière. 
