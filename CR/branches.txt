@@ -1,0 +1,5 @@
+1. On a utilisé la commande git branch
+2. La commande git branch
+3. Elle est affiché en vert sur le terminal
+4. La commande pour changer de branche est git checkout
+5. Le dossier branchtest n'apparait pas
