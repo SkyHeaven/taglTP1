@@ -1,1 +1,1 @@
-On crée un conflit.
+On essaie de creer un conflit. 
