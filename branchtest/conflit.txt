@@ -5,3 +5,6 @@ On essaie de creer un conflit.
 >>>>>>> fork1
 
 Pour gérer le conflit, on a fait un git commit -a qui permet de modifier le fichier en faisant apparaitre les deux versions du ficher dans le fichier, comme on peut le voir ci-dessus.
+
+
+Je ne sais pas comment resoudre les conflits.
