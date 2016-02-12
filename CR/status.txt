@@ -1,0 +1,3 @@
+Pour avoir un fichier dans la catégorie Changes to be committed, il suffit de faire git add le fichier et de ne pas le commit. 
+Pour avoir un fichier dans la catégorie Changes not staged for committed, il suffit de faire git add le fichier puis de le modifier et de ne pas le commit. 
+Pour avoir un fichier dans la catégorie Untracked files, il suffit de creer un fichier et de ne pas utiliser les commandes git add et git commit. 
