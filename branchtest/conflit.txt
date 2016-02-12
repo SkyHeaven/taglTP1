@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 On crée un conflit, on espere en tout cas.
+=======
+On essaie de creer un conflit. 
+>>>>>>> fork1
